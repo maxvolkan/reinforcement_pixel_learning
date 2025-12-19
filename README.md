@@ -27,3 +27,8 @@ python nexus_bot.py
 - game resolution was tested in Windowed mode at 1512x982
 - uses screen capture only (does not access memory)
 - intended for learning reinforcement learning
+
+## Current stage
+- basic keyboard control and window view
+- automatic window view and random movement
+- punish and reward system (need to figure out how to teleport player back to start)
