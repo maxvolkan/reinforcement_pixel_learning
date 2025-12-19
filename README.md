@@ -29,6 +29,6 @@ python nexus_bot.py
 - intended for learning reinforcement learning
 
 ## Current stage
-- basic keyboard control and window view
+- ~~basic keyboard control and window view~~
 - automatic window view and random movement
 - punish and reward system (need to figure out how to teleport player back to start)
